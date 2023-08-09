@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_ASSINGMENT_React_Props_002/static/css/main.7957a36c.css",
+    "main.js": "/GEEK_ASSINGMENT_React_Props_002/static/js/main.2b08b6d8.js",
+    "static/js/787.02c35fdd.chunk.js": "/GEEK_ASSINGMENT_React_Props_002/static/js/787.02c35fdd.chunk.js",
+    "index.html": "/GEEK_ASSINGMENT_React_Props_002/index.html",
+    "main.7957a36c.css.map": "/GEEK_ASSINGMENT_React_Props_002/static/css/main.7957a36c.css.map",
+    "main.2b08b6d8.js.map": "/GEEK_ASSINGMENT_React_Props_002/static/js/main.2b08b6d8.js.map",
+    "787.02c35fdd.chunk.js.map": "/GEEK_ASSINGMENT_React_Props_002/static/js/787.02c35fdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7957a36c.css",
+    "static/js/main.2b08b6d8.js"
+  ]
+}
